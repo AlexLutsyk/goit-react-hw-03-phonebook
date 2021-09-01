@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.0948c7eb.chunk.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.3b26cad5.chunk.js",
+    "main.js.map": "/goit-react-hw-03-phonebook/static/js/main.3b26cad5.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-phonebook/static/js/runtime-main.425fe930.js",
+    "runtime-main.js.map": "/goit-react-hw-03-phonebook/static/js/runtime-main.425fe930.js.map",
+    "static/js/2.c2ca8c29.chunk.js": "/goit-react-hw-03-phonebook/static/js/2.c2ca8c29.chunk.js",
+    "static/js/2.c2ca8c29.chunk.js.map": "/goit-react-hw-03-phonebook/static/js/2.c2ca8c29.chunk.js.map",
+    "static/js/3.db14fd89.chunk.js": "/goit-react-hw-03-phonebook/static/js/3.db14fd89.chunk.js",
+    "static/js/3.db14fd89.chunk.js.map": "/goit-react-hw-03-phonebook/static/js/3.db14fd89.chunk.js.map",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "static/css/main.0948c7eb.chunk.css.map": "/goit-react-hw-03-phonebook/static/css/main.0948c7eb.chunk.css.map",
+    "static/js/2.c2ca8c29.chunk.js.LICENSE.txt": "/goit-react-hw-03-phonebook/static/js/2.c2ca8c29.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/goit-react-hw-03-phonebook/static/media/PinClipart.com_phone-images-clip-art_360232.6e4b35f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.425fe930.js",
+    "static/js/2.c2ca8c29.chunk.js",
+    "static/css/main.0948c7eb.chunk.css",
+    "static/js/main.3b26cad5.chunk.js"
+  ]
+}
