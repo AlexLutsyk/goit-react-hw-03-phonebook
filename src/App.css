@@ -2,37 +2,42 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.wrapper {
+  background-image: url(./img/PinClipart.com_phone-images-clip-art_360232.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 680px;
+  width: 315px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px 20px 40px 20px;
+  overflow-y: auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.wrapper::-webkit-scrollbar {
+  width: 0px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+h1 {
+  color: #1485c8;
+  margin: 0;
+  padding: 0;
+  width: 275px;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  text-shadow: 3px 2px 2px rgba(150, 150, 150, 1);
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h2 {
+  color: #1485c8;
+  margin: 0;
+  margin-top: 20px;
+  padding: 0;
+  width: 275px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 3px 2px 2px rgba(150, 150, 150, 1);
 }
